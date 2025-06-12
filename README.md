@@ -45,6 +45,8 @@ python bot.py
 Python 3.10+
 Библиотека aiogram v3
 
-🧸 Автор 
+🧸 Автор Зоя — backend-разработчик
+📍 Python · FastAPI · SQL · Telegram Bots
+📬 Telegram: @ZoiaCh
 
 Разработано с любовью 💛
